@@ -1,0 +1,2 @@
+5 * + 2 = LỖI (Lỗi thiếu toán hạng trước toán tử)
+4 - / 10 = LỖI (Lỗi thiếu toán hạng trước toán tử)
